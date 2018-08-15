@@ -1,0 +1,14 @@
+Package: quantspacing
+Type: Package
+Title: Q-Spline Interpolation Library
+Version: 0.1.0
+Author: Lawrence Schmidt, Ben Chaimberg, Luxi Han
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: RcppArmadillo, Rcpp (>= 0.12.18), RcppGSL
+LinkingTo: RcppArmadillo, Rcpp, RcppGSL
+
